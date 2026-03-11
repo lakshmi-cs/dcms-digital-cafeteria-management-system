@@ -20,5 +20,5 @@ A mobile application developed as a Final Year Project to digitalize cafeteria o
 To reduce food wastage and improve cafeteria meal management.
 
 ## Author
-Lakshmi Pillai
+Lakshmi
 Computer Science Student
